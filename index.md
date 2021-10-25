@@ -37,7 +37,8 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
           <!-- desription -->
           <p>My website work great offline you can browse pages as long as you've seen them before adn even a custom offline fail page</p>
         </div>
-              <div class="clickable-div card grey lighten-4 waves-effect">
+      </div>
+     <div class="clickable-div card grey lighten-4 waves-effect">
         <!-- image -->
         <div class="card-image">
           <img loading="lazy" src="{{ document.front-image }}">
