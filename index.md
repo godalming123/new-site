@@ -84,6 +84,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
           <!-- desription -->
           <p>A great blog website for me by me.</p>
         </div>
+      </div>
       <div class="clickable-div card grey lighten-4 waves-effect">
         <!-- url -->
         <a href="https://github.com/godalming123/minimal" class="clickable-div-link">See the repo</a>
