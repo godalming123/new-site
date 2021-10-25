@@ -22,7 +22,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
           <!-- title -->
           <span class="card-title">Fluidity</span>
           <!-- desription -->
-          <p>Evreything is animated! Page transitions, button clicks, hover effects. And pages are so snappy to load thanks to caching them allowing for them to be remembered on the device and accesed offline</p>
+          <p>Everything is animated! Page transitions, button clicks, hover effects. And pages are so snappy to load thanks to caching them allowing for them to be remembered on the device and be accesed offline</p>
         </div>
       </div>
       <div class="clickable-div card grey lighten-4 waves-effect">
@@ -35,7 +35,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
           <!-- title -->
           <span class="card-title">Offline experiences</span>
           <!-- desription -->
-          <p>My website work great offline you can browse pages as long as you've seen them before adn even a custom offline fail page</p>
+          <p>My websites work great offline you can browse pages as long as you've seen them before and even a custom offline fail page is present.</p>
         </div>
       </div>
      <div class="clickable-div card grey lighten-4 waves-effect">
@@ -48,7 +48,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
           <!-- title -->
           <span class="card-title">App installation</span>
           <!-- desription -->
-          <p>My websites can easily be installed as an app just go into the browser enter the menu and click install as app the app will appear on the homw screen and is accesable without internet.</p>
+          <p>My websites can easily be installed as an app just go into the browser enter the menu and click install as app the app will appear on the home screen and is accesable without internet.</p>
         </div>
       </div>
   </div>
