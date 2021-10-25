@@ -10,7 +10,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
 
 <a target="_blank" href="mailto: r2hk9ahnf@relay.firefox.com" class="btn waves-effect waves-light">Contact Me</a>
 
-# Why choose me
+## Why choose me
 <div class="card-container alignment-2">
       <div class="clickable-div card grey lighten-4 waves-effect">
         <!-- image -->
@@ -53,7 +53,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
       </div>
   </div>
 
-# My projects
+## My projects
 <div class="card-container alignment-2">
       <div class="clickable-div card grey lighten-4 waves-effect">
         <!-- url -->
