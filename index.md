@@ -50,3 +50,51 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
         </div>
       </div>
   </div>
+
+# My projects
+<div class="card-container alignment-2">
+      <div class="clickable-div card grey lighten-4 waves-effect">
+        <!-- url -->
+        <a href="https://github.com/godalming123/cayman/tree/patch-1" class="clickable-div-link">See the repo</a>
+        <!-- image -->
+        <div class="card-image">
+          <img loading="lazy" src="{{ document.front-image }}">
+        </div>
+        <!-- text -->
+        <div class="card-content">
+          <!-- title -->
+          <span class="card-title">Cayman</span>
+          <!-- desription -->
+          <p>A fork of the cayman jekyll theme that adds dark mode</p>
+        </div>
+      </div>
+      <div class="clickable-div card grey lighten-4 waves-effect">
+        <!-- url -->
+        <a href="https://godalming123.github.io/blog" class="clickable-div-link">See the website</a>
+        <!-- image -->
+        <div class="card-image">
+          <img loading="lazy" src="{{ document.front-image }}">
+        </div>
+        <!-- text -->
+        <div class="card-content">
+          <!-- title -->
+          <span class="card-title">My blog</span>
+          <!-- desription -->
+          <p>A great blog website for me by me.</p>
+        </div>
+      <div class="clickable-div card grey lighten-4 waves-effect">
+        <!-- url -->
+        <a href="https://github.com/godalming123/minimal" class="clickable-div-link">See the repo</a>
+        <!-- image -->
+        <div class="card-image">
+          <img loading="lazy" src="{{ document.front-image }}">
+        </div>
+        <!-- text -->
+        <div class="card-content">
+          <!-- title -->
+          <span class="card-title">Minimal</span>
+          <!-- desription -->
+          <p>A fork of the minimal jekyll theme that adds dark mode.</p>
+        </div>
+      </div>
+  </div>
