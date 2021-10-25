@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hello
+barba-page-namespace: home
 ---
 
 # Hello!
