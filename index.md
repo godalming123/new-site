@@ -10,12 +10,12 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
 
 <a target="_blank" href="mailto: r2hk9ahnf@relay.firefox.com" class="btn waves-effect waves-light">Contact Me</a>
 
-## Why choose me
+## Why choose me?
 <div class="card-container alignment-2">
       <div class="clickable-div card grey lighten-4 waves-effect">
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="https://images.pexels.com/photos/3705159/pexels-photo-3705159.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200">
         </div>
         <!-- text -->
         <div class="card-content">
@@ -28,7 +28,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
       <div class="clickable-div card grey lighten-4 waves-effect">
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="https://liberdadedigitalhoje.com/wp-content/uploads/2016/08/offline.png">
         </div>
         <!-- text -->
         <div class="card-content">
@@ -41,7 +41,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
      <div class="clickable-div card grey lighten-4 waves-effect">
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="https://maxcdn.icons8.com/Share/icon/p1em/User_Interface/download1600.png">
         </div>
         <!-- text -->
         <div class="card-content">
@@ -60,7 +60,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
         <a href="https://github.com/godalming123/cayman/tree/patch-1" class="clickable-div-link">See the repo</a>
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="">
         </div>
         <!-- text -->
         <div class="card-content">
@@ -75,7 +75,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
         <a href="https://godalming123.github.io/blog" class="clickable-div-link">See the website</a>
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="">
         </div>
         <!-- text -->
         <div class="card-content">
@@ -90,7 +90,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
         <a href="https://github.com/godalming123/minimal" class="clickable-div-link">See the repo</a>
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="">
         </div>
         <!-- text -->
         <div class="card-content">
@@ -111,7 +111,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
         <a href="https://sass-lang.com/" class="clickable-div-link">See the sass docs</a>
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="">
         </div>
         <!-- text -->
         <div class="card-content">
@@ -126,7 +126,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
         <a href="https://materializecss.com/" class="clickable-div-link">See the matirlize docs</a>
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="">
         </div>
         <!-- text -->
         <div class="card-content">
@@ -141,7 +141,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
         <a href="https://barba.js.org/" class="clickable-div-link">See the barba docs</a>
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="">
         </div>
         <!-- text -->
         <div class="card-content">
@@ -160,7 +160,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
         <a href="https://tldp.org/LDP/intro-linux/intro-linux.pdf" class="clickable-div-link">See a intro</a>
         <!-- image -->
         <div class="card-image">
-          <img loading="lazy" src="{{ document.front-image }}">
+          <img loading="lazy" src="">
         </div>
         <!-- text -->
         <div class="card-content">
