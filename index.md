@@ -153,7 +153,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
       </div>
   </div>
 
-## Other
+### Other
 <div>
       <div class="clickable-div card grey lighten-4 waves-effect">
         <!-- url -->
