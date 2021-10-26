@@ -101,3 +101,73 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
         </div>
       </div>
   </div>
+
+## My skills
+
+### Frontend
+<div class="card-container alignment-2">
+      <div class="clickable-div card grey lighten-4 waves-effect">
+        <!-- url -->
+        <a href="https://sass-lang.com/" class="clickable-div-link">See the sass docs</a>
+        <!-- image -->
+        <div class="card-image">
+          <img loading="lazy" src="{{ document.front-image }}">
+        </div>
+        <!-- text -->
+        <div class="card-content">
+          <!-- title -->
+          <span class="card-title">Sass</span>
+          <!-- desription -->
+          <p>A progrmming language that complies to css</p>
+        </div>
+      </div>
+      <div class="clickable-div card grey lighten-4 waves-effect">
+        <!-- url -->
+        <a href="https://materializecss.com/" class="clickable-div-link">See the matirlize docs</a>
+        <!-- image -->
+        <div class="card-image">
+          <img loading="lazy" src="{{ document.front-image }}">
+        </div>
+        <!-- text -->
+        <div class="card-content">
+          <!-- title -->
+          <span class="card-title">Matirlize</span>
+          <!-- desription -->
+          <p>A css libary that allows you to build buitiful websites like this one.</p>
+        </div>
+      </div>
+      <div class="clickable-div card grey lighten-4 waves-effect">
+        <!-- url -->
+        <a href="https://barba.js.org/" class="clickable-div-link">See the barba docs</a>
+        <!-- image -->
+        <div class="card-image">
+          <img loading="lazy" src="{{ document.front-image }}">
+        </div>
+        <!-- text -->
+        <div class="card-content">
+          <!-- title -->
+          <span class="card-title">Barba</span>
+          <!-- desription -->
+          <p>A js libary that allows you to create animations from page to page.</p>
+        </div>
+      </div>
+  </div>
+
+## Other
+<div>
+      <div class="clickable-div card grey lighten-4 waves-effect">
+        <!-- url -->
+        <a href="https://tldp.org/LDP/intro-linux/intro-linux.pdf" class="clickable-div-link">See a intro</a>
+        <!-- image -->
+        <div class="card-image">
+          <img loading="lazy" src="{{ document.front-image }}">
+        </div>
+        <!-- text -->
+        <div class="card-content">
+          <!-- title -->
+          <span class="card-title">Linux</span>
+          <!-- desription -->
+          <p>An os I use and love that is used in many servers</p>
+        </div>
+      </div>
+  </div>
