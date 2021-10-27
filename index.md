@@ -154,7 +154,7 @@ I’m a web devoloper designer and coder. Offering a freelance job in jekyll sta
   </div>
 
 ### Other
-<div>
+<div class="card-container alignment-2">
       <div class="clickable-div card grey lighten-4 waves-effect">
         <!-- url -->
         <a href="https://tldp.org/LDP/intro-linux/intro-linux.pdf" class="clickable-div-link">See a intro</a>
