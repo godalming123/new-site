@@ -1,1 +1,19 @@
 remote_theme: "godalming123/matirlize-jekyll-theme"
+
+accent-color: 26a69a #hex color value
+faded-accent-color: 1d8c81 #hex color value this is used for background when app is launching
+
+#seo ==========================
+title: Hello There
+description: I’m a web devoloper designer and coder. Offering a freelance job in jekyll static site devolopment in fact this whole site is built with jekyll and github pages! If you want to see what I can do I have made sveral site including my blog (https://godalming123.github.io/blog/).
+image: icons/developer.svg
+
+social:
+  name: Godalming123
+  links:
+    - https://github.com/godalming123
+    - https://godalming123.github.io/new-site/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
